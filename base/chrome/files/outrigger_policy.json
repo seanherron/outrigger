@@ -1,0 +1,13 @@
+{
+  "DefaultPluginsSetting": 3,
+  "DefaultGeolocationSetting": 3,
+  "ExtensionInstallForcelist": [
+    {% for extension in extensions %}
+    "{{ extension }};https://clients2.google.com/service/update2/crx",
+    {% endfor %}
+  ],
+  "PasswordManagerEnabled": false,
+  "DefaultBrowserSettingEnabled": true,
+  "ShowHomeButton": false,
+  "SyncDisabled": true
+}
