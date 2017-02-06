@@ -4,6 +4,7 @@ utils:
       - curl
       - git
       - gksu
+      - gparted
       - htop
       - screen
       - tmux
