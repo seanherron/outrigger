@@ -3,6 +3,7 @@ base:
     - appearance
     - atom
     - chrome
+    - devtools
     - dotfiles
     - icedtea
     - openvpn
