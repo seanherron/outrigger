@@ -11,6 +11,7 @@ base:
     - slack
     - spotify
     - ssh
+    - tlp
     - vim
     - vm
     - utils
