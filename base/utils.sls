@@ -6,6 +6,7 @@ utils:
       - gksu
       - gparted
       - htop
+      - krb5-user
       - screen
       - tmux
       - wget
