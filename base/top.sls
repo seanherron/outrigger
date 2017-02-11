@@ -6,7 +6,6 @@ base:
     - devtools
     - dotfiles
     - exacq
-    - gam
     - icedtea
     - openvpn
     - remmina
