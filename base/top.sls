@@ -5,6 +5,8 @@ base:
     - chrome
     - devtools
     - dotfiles
+    - exacq
+    - gam
     - icedtea
     - openvpn
     - remmina
