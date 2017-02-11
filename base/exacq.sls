@@ -1,4 +1,4 @@
 exacq:
   pkg.installed:
     - sources:
-      - edvrclient: http://exacq.com/reseller/8.2/exacqVisionServer-8.2.2.108683.deb
+      - edvrclient: http://cdnpublic.exacq.com/8.2/exacqVisionClient-8.2.2.108645.deb
