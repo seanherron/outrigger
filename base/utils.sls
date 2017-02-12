@@ -7,6 +7,7 @@ utils:
       - gparted
       - htop
       - krb5-user
+      - certbot
       - screen
       - tmux
       - wget
