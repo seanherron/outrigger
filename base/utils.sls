@@ -1,13 +1,14 @@
 utils:
   pkg.latest:
     - pkgs:
+      - certbot
       - curl
       - git
       - gksu
       - gparted
       - htop
       - krb5-user
-      - certbot
+      - ldap-utils
       - screen
       - tmux
       - wget
