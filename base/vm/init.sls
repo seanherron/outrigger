@@ -13,4 +13,7 @@ virt-manager:
 
 qemu:
   pkg.latest:
-    - name: qemu-kvm
+    - pkgs:
+      - qemu-kvm
+      - libvirt-bin
+      - bridge-utils
