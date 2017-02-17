@@ -6,7 +6,11 @@ vagrant:
 virtualbox:
   pkg.latest:
     - name: virtualbox
-    
+
 virt-manager:
   pkg.latest:
     - name: virt-manager
+
+qemu:
+  pkg.latest:
+    - name: qemu-kvm
