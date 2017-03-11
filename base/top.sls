@@ -7,6 +7,7 @@ base:
     - dotfiles
     - icedtea
     - openvpn
+    - pyenv
     - remmina
     - slack
     - spotify

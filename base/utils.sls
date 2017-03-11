@@ -3,6 +3,7 @@ utils:
     - pkgs:
       - certbot
       - curl
+      - filezilla
       - git
       - gksu
       - gparted
