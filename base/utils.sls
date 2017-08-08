@@ -10,6 +10,7 @@ utils:
       - htop
       - krb5-user
       - ldap-utils
+      - putty
       - screen
       - tmux
       - wget
